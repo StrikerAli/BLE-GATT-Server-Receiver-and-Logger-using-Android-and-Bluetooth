@@ -1,3 +1,12 @@
+# Demo Video
+
+
+
+https://github.com/user-attachments/assets/0d1a2fec-784a-46f8-97fe-ae41e956497c
+
+
+
+
 # BLE Sine Wave Data Collection and Visualization System
 
 This project demonstrates a system for generating sine wave data via a Bluetooth Low Energy (BLE) Android application, receiving it with another BLE Android application, logging it to a file, and then uploading this file to a Python Flask server for storage and visualization.
